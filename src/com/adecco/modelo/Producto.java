@@ -13,8 +13,7 @@ public class Producto {
     private String nombreProducto;
     private double precio;
     private int cantidadExistencia;
-    // 2. Métodos
-    // 3. Setters y Getters (modo público siempre)
+    // 2. Setters y Getters (modo público siempre)
         // a) SETTER: asignar el valor de mi atributo en el objeto por eso se le pasa un argumento
     public void setNumProducto(int numProducto) {
         this.numProducto = numProducto;

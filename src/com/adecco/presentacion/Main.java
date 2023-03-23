@@ -5,8 +5,7 @@ import com.adecco.modelo.Producto; // ruta de la clase Producto en Main
 public class Main {
     public static void main(String[] args) {
         /* Instanciar el objeto Producto
-        Como tengo los atributos en modo privado no puedo acceder desde aquí a los atributos y métodos
-        de la clase Producto. Para poder acceder a ellos tengo que hacer SETTER Y GETTERS (modo público).
+        Como tengo los atributos en modo privado no puedo acceder desde aquí a los atributos de la clase Producto. Para poder acceder a ellos tengo que hacer SETTER Y GETTERS (modo público).
         Al hacer los setters y los getters ya puedo dar valor a mis atributos.*/
         Producto p1 = new Producto();
 
